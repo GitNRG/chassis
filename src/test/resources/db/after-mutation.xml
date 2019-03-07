@@ -1,0 +1,5 @@
+<dataset>
+    <GREETINGS id="333" message="Hello"/>
+    <GREETINGS id="555" message="Hey"/>
+    <GREETINGS id="777" message="Welcome"/>
+</dataset>
